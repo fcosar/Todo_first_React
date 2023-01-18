@@ -1,0 +1,8 @@
+To Do App
+
+Uygulamanın Özellikleri
+
+1.Kullanıcı bir form aracılığıyla todo ekleyebilecek.
+2.Eklenen Todo direk ekranda görünecek.
+3.Her Todo içi sil,güncelle ve durumuna göre yapıldı/yapılmadı butonları olacak.
+4.Bu butonlar ilgili görevleri yerine getirecek.
