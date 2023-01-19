@@ -10,7 +10,7 @@ function App() {
   const [yapilacaklar, setYapilacaklar] = useState([]);
   
   return (
-    <div className="container">
+    <div className="backraund-color:red">
       <h1 className="text-center my-5">Todo App</h1>
       <AddTodoForm
         yapilacaklar={yapilacaklar}
